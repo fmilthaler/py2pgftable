@@ -8,8 +8,8 @@ This project aims to ease and automate the process, thus to fill the gap between
 As the comprehensive package pgfplotstable (see http://pgfplots.sourceforge.net/) provides many useful features to create tables in LaTeX, this code writes a LaTeX file to disk which uses pgfplotstable. The file can then be included in your LaTeX document with the \input{filename} command.
 
 Requirements:
- * Python (> v. 2.7)
- * PGFPlotsTable (to be on the safe side, > v. 1.9)
+ * Python (>= v. 2.7)
+ * PGFPlotsTable (to be on the safe side, >= v. 1.9)
 
 
 Py2PGFPlotsTable is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
